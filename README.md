@@ -32,25 +32,23 @@ const awang = {
 
 ## ✦ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awangsuryarmdhn&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
+| ✦ Total Contributions | ✦ Current Streak | ✦ Longest Streak |
+|:---:|:---:|:---:|
+| 327+ | 2 days | 4 days |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangsuryarmdhn&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=awangsuryarmdhn" alt="Streak Stats" />
-</p>
+> *Stats as of April 2026 - Check my [GitHub profile](https://github.com/awangsuryarmdhn) for live stats!*
 
 ---
 
 ## ✦ Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awangsuryarmdhn&no-frame=true&row=1&column=7" alt="Trophy" />
+  <a href="https://github.com/awangsuryarmdhn">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub" />
+  </a>
 </p>
+
+<p align="center"><em>Active contributor since 2022</em></p>
 
 ---
 
@@ -83,11 +81,6 @@ const awang = {
 
 ---
 
-## ✦ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awangsuryarmdhn&theme=react-dark&color=ff6b9d&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
-</p>
 
 ---
 
