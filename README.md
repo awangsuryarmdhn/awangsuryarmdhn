@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44569,50:574b90,75:30395c,100:0a1931&height=250&section=header&text=✦%20Awang%20✦&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20|%20Developer%20|%20Tech%20Enthusiast&descSize=18&descColor=a8d8ea" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44569,50:574b90,75:30395c,100:0a1931&height=250&section=header&text=✦%20Awang%20Suryamardhn%20✦&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20|%20Developer%20|%20Tech%20Enthusiast&descSize=18&descColor=a8d8ea" />
 </p>
 
 <p align="center">
@@ -33,15 +33,15 @@ const awang = {
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awangsuryarmdhn&show_icons=true&theme=aura-dark&hide_border=true&title_color=ff6b9d&icon_color=ff6b9d&text_color=ffffff&ring_color=ff6b9d&border_color=ff6b9d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awangsuryarmdhn&show_icons=true&theme=dark&hide_border=true&title_color=ff6b9d&icon_color=ff6b9d&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangsuryarmdhn&layout=compact&theme=aura-dark&hide_border=true&title_color=ff6b9d&text_color=ffffff&border_color=ff6b9d" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangsuryarmdhn&layout=compact&theme=dark&hide_border=true&title_color=ff6b9d&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awangsuryarmdhn&theme=aura-dark&hide_border=true&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awangsuryarmdhn&theme=dark&hide_border=true&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" alt="Streak Stats" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ const awang = {
 ## ✦ Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awangsuryarmdhn&theme=onedark&no-frame=true&row=1&column=7&margin-right=10" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awangsuryarmdhn&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
 </p>
 
 ---
