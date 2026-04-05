@@ -33,15 +33,15 @@ const awang = {
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awangsuryarmdhn&show_icons=true&theme=dark&hide_border=true&title_color=ff6b9d&icon_color=ff6b9d&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awangsuryarmdhn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangsuryarmdhn&layout=compact&theme=dark&hide_border=true&title_color=ff6b9d&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangsuryarmdhn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awangsuryarmdhn&theme=dark&hide_border=true&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=awangsuryarmdhn&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ const awang = {
 ## ✦ Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awangsuryarmdhn&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=awangsuryarmdhn&theme=radical&no-frame=true&row=1&column=7" alt="Trophy" />
 </p>
 
 ---
